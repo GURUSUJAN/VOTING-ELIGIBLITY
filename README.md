@@ -1,5 +1,3 @@
-# VOTING-ELIGIBLITY
-ABOUT ELEGIBILITY TO VOTE BY USING YOUR AGE
 #include<stdio.h>
 void main()
 {
